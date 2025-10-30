@@ -12,4 +12,6 @@ client:visible astro
 - astro werkt goed met vele headless cms'en.
 - supabase: 
 
-<img width="376" height="220" alt="image" src="https://github.com/user-attachments/assets/78cfc515-26d8-4488-b487-faa29371b847" />
+<img width="2880" height="1626" alt="image" src="https://github.com/user-attachments/assets/4493c19a-c7ca-4ede-87fe-5698cc078d71" />
+
+<img width="2880" height="1626" alt="image" src="https://github.com/user-attachments/assets/b2b23266-bccd-41b6-a631-4bc3cd117563" />
