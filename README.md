@@ -11,3 +11,5 @@ client:visible astro
 ### Content Management eXperience
 - astro werkt goed met vele headless cms'en.
 - supabase: 
+
+<img width="376" height="220" alt="image" src="https://github.com/user-attachments/assets/78cfc515-26d8-4488-b487-faa29371b847" />
